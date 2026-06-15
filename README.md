@@ -1,2 +1,2 @@
-# mini_dns_resolver
-A simple C++ DNS resolver that converts a domain into an IP address, and displays its binary and hex representation.
+A minimal, pipeline‑oriented DNS resolver written in modern C++.
+Designed for clarity, byte‑level visibility, and educational value.
